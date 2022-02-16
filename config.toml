@@ -1,3 +1,28 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+theme = "lynx"
+title = "John Espinosa Sr."
+languageCode = "en-us"
+baseUrl = "https://revotek.github.io"
+googleAnalytics = ""
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  image = "azprofile.jpg"
+  alternative = "John Espinosa | Father | Azure Certified Developer | Software Engineer | Learner | Leader"
+  links = [
+    { github = "https://github.com/revotek" },
+    { linkedin = "https://www.linkedin.com/in/johnespinosasr" },
+    
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  keywords = "revotek,john,espinosa,azure,certification,software,engineer,developer,profile"
+  robots = "index,follow"

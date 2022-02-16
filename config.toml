@@ -1,5 +1,5 @@
 theme = "lynx"
-title = "John Espinosa"
+title = "John Daniel Espinosa SR."
 languageCode = "en-us"
 baseUrl = "https://revotek.github.io"
 googleAnalytics = ""
@@ -9,10 +9,10 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   image = "azprofile.jpg"
-  alternative = "John Espinosa | Software Engineer | Learner | Leader"
+  alternative = "John Espinosa | Azure Certified Developer | Software Engineer | Learner | Leader"
   links = [
-    { github = "https://github.com/revotek" },
-    { linkedin = "https://www.linkedin.com/in/johnespinosasr/" }
+    { github = "https://github.com/revotek" }, 
+    { linkedin = "https://www.linkedin.com/in/johnespinosasr" }, 
   ]
 
 [markup.highlight]
@@ -23,5 +23,5 @@ disableKinds = ["taxonomy", "term"]
   unsafe = true
 
 [params]
-  keywords = "revotek,johnespinosa,john,espinosa,software,engineer,developer,profile,azure"
+  keywords = "revotek,john,espinosa,azure,azurecertified,azurecertifieddeveloper,software,engineer,developer,profile"
   robots = "index,follow"

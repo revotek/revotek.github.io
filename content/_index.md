@@ -1,7 +1,7 @@
 ---
 title: "John Espinosa"
 description: "Hello! I’m a Software Engineer, Team Leader and Constant Learner. I live in Las Vegas, Nevada..."
-images: ["azorofile.png"]
+images: ["azorofile.jpg"]
 tags: ["revotek", "john", "espinosa", "johnespinosa", "software", "engineer", "developer", "profile", "blogger"]
 ---
 

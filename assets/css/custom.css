@@ -1,9 +1,46 @@
-.link-font-awesome {
-  background: rgb(131, 58, 180);
-  background: linear-gradient(
-    90deg,
-    rgba(131, 58, 180, 1) 0%,
-    rgba(253, 29, 29, 1) 50%,
-    rgba(252, 176, 69, 1) 100%
-  );
+.mt-10 {
+  margin-top: 0.5rem;
+}
+
+.mt-4 {
+  margin-top: 2rem;
+}
+
+.h-36 {
+  height: 16rem;
+}
+
+.w-36 {
+  width: 16rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .dark\:bg-neutral-800 {
+    --tw-bg-opacity: 1;
+    background-color: #e6decd;
+  }
+
+  .dark\:prose-light {
+    color: #0b132a;
+  }
+
+  .dark\:prose-light strong {
+    color: #0b132a;
+  }
+
+  .dark\:text-white {
+    --tw-text-opacity: 1;
+    color: #0b132a;
+  }
+}
+
+/* Colour Palette */
+/* light: #fbfaf8; */
+/* creme: #e6decd; */
+/* green: #698f40; */
+/* navy: #0b132a; */
+
+/* Custom Icons */
+.link-nuget {
+  background-color: #004880;
 }

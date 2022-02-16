@@ -2,7 +2,6 @@ theme = "lynx"
 title = "John Espinosa Sr."
 languageCode = "en-us"
 baseUrl = "https://revotek.github.io"
-googleAnalytics = ""
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
